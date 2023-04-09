@@ -1,5 +1,4 @@
 # Password-Checker
-# Password-Checker
 This is a Python Scripting Model which can be used to check if your password was pwned in past or not , you can use this model to check the strongness of your password and allows you to choose the impenetrable password
 
 Steps to Use this Toool
